@@ -1,0 +1,7 @@
+{
+  "name": "bluedriver",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
