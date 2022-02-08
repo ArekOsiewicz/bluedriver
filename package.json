@@ -2,6 +2,7 @@
   "name": "bluedriver",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://arekosiewicz.github.io/bluedriver/build/",
   "dependencies": {
     "@capacitor-community/bluetooth-le": "^1.7.0",
     "@capacitor/app": "1.1.0",
