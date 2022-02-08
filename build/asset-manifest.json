@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bluedriver/build/static/css/main.599a8459.css",
-    "main.js": "/bluedriver/build/static/js/main.c7be5e60.js",
+    "main.js": "/bluedriver/build/static/js/main.5f6cba9a.js",
     "static/js/738.3d69e564.chunk.js": "/bluedriver/build/static/js/738.3d69e564.chunk.js",
     "static/js/1609.18e3683f.chunk.js": "/bluedriver/build/static/js/1609.18e3683f.chunk.js",
     "static/js/3305.c94f3df8.chunk.js": "/bluedriver/build/static/js/3305.c94f3df8.chunk.js",
@@ -67,7 +67,7 @@
     "service-worker.js": "/bluedriver/build/service-worker.js",
     "index.html": "/bluedriver/build/index.html",
     "main.599a8459.css.map": "/bluedriver/build/static/css/main.599a8459.css.map",
-    "main.c7be5e60.js.map": "/bluedriver/build/static/js/main.c7be5e60.js.map",
+    "main.5f6cba9a.js.map": "/bluedriver/build/static/js/main.5f6cba9a.js.map",
     "738.3d69e564.chunk.js.map": "/bluedriver/build/static/js/738.3d69e564.chunk.js.map",
     "1609.18e3683f.chunk.js.map": "/bluedriver/build/static/js/1609.18e3683f.chunk.js.map",
     "4369.bfd5d24c.chunk.js.map": "/bluedriver/build/static/js/4369.bfd5d24c.chunk.js.map",
@@ -124,6 +124,6 @@
   },
   "entrypoints": [
     "static/css/main.599a8459.css",
-    "static/js/main.c7be5e60.js"
+    "static/js/main.5f6cba9a.js"
   ]
 }
